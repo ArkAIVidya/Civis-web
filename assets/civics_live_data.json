@@ -1,0 +1,312 @@
+{
+    "version": 20260127,
+    "federal": {
+        "president_name": "Donald J. Trump",
+        "vp_name": "JD Vance",
+        "speaker_house_name": "Mike Johnson",
+        "chief_justice_name": "John G. Roberts, Jr.",
+        "president_party": "Republican Party"
+    },
+    "states": {
+        "AL": {
+            "governor_name": "Kay Ivey",
+            "state_capital": "Montgomery",
+            "senator_1_name": "Katie Britt",
+            "senator_2_name": "Tommy Tuberville"
+        },
+        "AK": {
+            "governor_name": "Mike Dunleavy",
+            "state_capital": "Juneau",
+            "senator_1_name": "Lisa Murkowski",
+            "senator_2_name": "Dan Sullivan"
+        },
+        "AZ": {
+            "governor_name": "Katie Hobbs",
+            "state_capital": "Phoenix",
+            "senator_1_name": "Mark Kelly",
+            "senator_2_name": "Kyrsten Sinema"
+        },
+        "AR": {
+            "governor_name": "Sarah Huckabee Sanders",
+            "state_capital": "Little Rock",
+            "senator_1_name": "John Boozman",
+            "senator_2_name": "Tom Cotton"
+        },
+        "CA": {
+            "governor_name": "Gavin Newsom",
+            "state_capital": "Sacramento",
+            "senator_1_name": "Alex Padilla",
+            "senator_2_name": "Laphonza Butler"
+        },
+        "CO": {
+            "governor_name": "Jared Polis",
+            "state_capital": "Denver",
+            "senator_1_name": "Michael Bennet",
+            "senator_2_name": "John Hickenlooper"
+        },
+        "CT": {
+            "governor_name": "Ned Lamont",
+            "state_capital": "Hartford",
+            "senator_1_name": "Richard Blumenthal",
+            "senator_2_name": "Chris Murphy"
+        },
+        "DE": {
+            "governor_name": "Matt Meyer",
+            "state_capital": "Dover",
+            "senator_1_name": "Tom Carper",
+            "senator_2_name": "Chris Coons"
+        },
+        "FL": {
+            "governor_name": "Ron DeSantis",
+            "state_capital": "Tallahassee",
+            "senator_1_name": "Marco Rubio",
+            "senator_2_name": "Rick Scott"
+        },
+        "GA": {
+            "governor_name": "Brian Kemp",
+            "state_capital": "Atlanta",
+            "senator_1_name": "Jon Ossoff",
+            "senator_2_name": "Raphael Warnock"
+        },
+        "HI": {
+            "governor_name": "Josh Green",
+            "state_capital": "Honolulu",
+            "senator_1_name": "Brian Schatz",
+            "senator_2_name": "Mazie Hirono"
+        },
+        "ID": {
+            "governor_name": "Brad Little",
+            "state_capital": "Boise",
+            "senator_1_name": "Mike Crapo",
+            "senator_2_name": "Jim Risch"
+        },
+        "IL": {
+            "governor_name": "J.B. Pritzker",
+            "state_capital": "Springfield",
+            "senator_1_name": "Dick Durbin",
+            "senator_2_name": "Tammy Duckworth"
+        },
+        "IN": {
+            "governor_name": "Mike Braun",
+            "state_capital": "Indianapolis",
+            "senator_1_name": "Todd Young",
+            "senator_2_name": "Mike Braun"
+        },
+        "IA": {
+            "governor_name": "Kim Reynolds",
+            "state_capital": "Des Moines",
+            "senator_1_name": "Chuck Grassley",
+            "senator_2_name": "Joni Ernst"
+        },
+        "KS": {
+            "governor_name": "Laura Kelly",
+            "state_capital": "Topeka",
+            "senator_1_name": "Jerry Moran",
+            "senator_2_name": "Roger Marshall"
+        },
+        "KY": {
+            "governor_name": "Andy Beshear",
+            "state_capital": "Frankfort",
+            "senator_1_name": "Mitch McConnell",
+            "senator_2_name": "Rand Paul"
+        },
+        "LA": {
+            "governor_name": "Jeff Landry",
+            "state_capital": "Baton Rouge",
+            "senator_1_name": "Bill Cassidy",
+            "senator_2_name": "John Kennedy"
+        },
+        "ME": {
+            "governor_name": "Janet Mills",
+            "state_capital": "Augusta",
+            "senator_1_name": "Susan Collins",
+            "senator_2_name": "Angus King"
+        },
+        "MD": {
+            "governor_name": "Wes Moore",
+            "state_capital": "Annapolis",
+            "senator_1_name": "Ben Cardin",
+            "senator_2_name": "Chris Van Hollen"
+        },
+        "MA": {
+            "governor_name": "Maura Healey",
+            "state_capital": "Boston",
+            "senator_1_name": "Elizabeth Warren",
+            "senator_2_name": "Ed Markey"
+        },
+        "MI": {
+            "governor_name": "Gretchen Whitmer",
+            "state_capital": "Lansing",
+            "senator_1_name": "Debbie Stabenow",
+            "senator_2_name": "Gary Peters"
+        },
+        "MN": {
+            "governor_name": "Tim Walz",
+            "state_capital": "Saint Paul",
+            "senator_1_name": "Amy Klobuchar",
+            "senator_2_name": "Tina Smith"
+        },
+        "MS": {
+            "governor_name": "Tate Reeves",
+            "state_capital": "Jackson",
+            "senator_1_name": "Roger Wicker",
+            "senator_2_name": "Cindy Hyde-Smith"
+        },
+        "MO": {
+            "governor_name": "Mike Kehoe",
+            "state_capital": "Jefferson City",
+            "senator_1_name": "Josh Hawley",
+            "senator_2_name": "Eric Schmitt"
+        },
+        "MT": {
+            "governor_name": "Greg Gianforte",
+            "state_capital": "Helena",
+            "senator_1_name": "Jon Tester",
+            "senator_2_name": "Steve Daines"
+        },
+        "NE": {
+            "governor_name": "Jim Pillen",
+            "state_capital": "Lincoln",
+            "senator_1_name": "Deb Fischer",
+            "senator_2_name": "Pete Ricketts"
+        },
+        "NV": {
+            "governor_name": "Joe Lombardo",
+            "state_capital": "Carson City",
+            "senator_1_name": "Catherine Cortez Masto",
+            "senator_2_name": "Jacky Rosen"
+        },
+        "NH": {
+            "governor_name": "Kelly Ayotte",
+            "state_capital": "Concord",
+            "senator_1_name": "Jeanne Shaheen",
+            "senator_2_name": "Maggie Hassan"
+        },
+        "NJ": {
+            "governor_name": "Mikie Sherrill",
+            "state_capital": "Trenton",
+            "senator_1_name": "Cory Booker",
+            "senator_2_name": "George Helmy"
+        },
+        "NM": {
+            "governor_name": "Michelle Lujan Grisham",
+            "state_capital": "Santa Fe",
+            "senator_1_name": "Martin Heinrich",
+            "senator_2_name": "Ben Ray Luján"
+        },
+        "NY": {
+            "governor_name": "Kathy Hochul",
+            "state_capital": "Albany",
+            "senator_1_name": "Chuck Schumer",
+            "senator_2_name": "Kirsten Gillibrand"
+        },
+        "NC": {
+            "governor_name": "Josh Stein",
+            "state_capital": "Raleigh",
+            "senator_1_name": "Thom Tillis",
+            "senator_2_name": "Ted Budd"
+        },
+        "ND": {
+            "governor_name": "Kelly Armstrong",
+            "state_capital": "Bismarck",
+            "senator_1_name": "John Hoeven",
+            "senator_2_name": "Kevin Cramer"
+        },
+        "OH": {
+            "governor_name": "Mike DeWine",
+            "state_capital": "Columbus",
+            "senator_1_name": "Sherrod Brown",
+            "senator_2_name": "JD Vance"
+        },
+        "OK": {
+            "governor_name": "Kevin Stitt",
+            "state_capital": "Oklahoma City",
+            "senator_1_name": "James Lankford",
+            "senator_2_name": "Markwayne Mullin"
+        },
+        "OR": {
+            "governor_name": "Tina Kotek",
+            "state_capital": "Salem",
+            "senator_1_name": "Ron Wyden",
+            "senator_2_name": "Jeff Merkley"
+        },
+        "PA": {
+            "governor_name": "Josh Shapiro",
+            "state_capital": "Harrisburg",
+            "senator_1_name": "Bob Casey Jr.",
+            "senator_2_name": "John Fetterman"
+        },
+        "RI": {
+            "governor_name": "Dan McKee",
+            "state_capital": "Providence",
+            "senator_1_name": "Jack Reed",
+            "senator_2_name": "Sheldon Whitehouse"
+        },
+        "SC": {
+            "governor_name": " Henry McMaster",
+            "state_capital": "Columbia",
+            "senator_1_name": "Lindsey Graham",
+            "senator_2_name": "Tim Scott"
+        },
+        "SD": {
+            "governor_name": "Larry Rhoden",
+            "state_capital": "Pierre",
+            "senator_1_name": "John Thune",
+            "senator_2_name": "Mike Rounds"
+        },
+        "TN": {
+            "governor_name": "Bill Lee",
+            "state_capital": "Nashville",
+            "senator_1_name": "Marsha Blackburn",
+            "senator_2_name": "Bill Hagerty"
+        },
+        "TX": {
+            "governor_name": "Greg Abbott",
+            "state_capital": "Austin",
+            "senator_1_name": "John Cornyn",
+            "senator_2_name": "Ted Cruz"
+        },
+        "UT": {
+            "governor_name": "Spencer Cox",
+            "state_capital": "Salt Lake City",
+            "senator_1_name": "Mike Lee",
+            "senator_2_name": "Mitt Romney"
+        },
+        "VT": {
+            "governor_name": "Phil Scott",
+            "state_capital": "Montpelier",
+            "senator_1_name": "Bernie Sanders",
+            "senator_2_name": "Peter Welch"
+        },
+        "VA": {
+            "governor_name": "Abigail Spanberger",
+            "state_capital": "Richmond",
+            "senator_1_name": "Mark Warner",
+            "senator_2_name": "Tim Kaine"
+        },
+        "WA": {
+            "governor_name": "Bob Ferguson",
+            "state_capital": "Olympia",
+            "senator_1_name": "Patty Murray",
+            "senator_2_name": "Maria Cantwell"
+        },
+        "WV": {
+            "governor_name": "Patrick Morrisey",
+            "state_capital": "Charleston",
+            "senator_1_name": "Joe Manchin",
+            "senator_2_name": "Shelley Moore Capito"
+        },
+        "WI": {
+            "governor_name": "Tony Evers",
+            "state_capital": "Madison",
+            "senator_1_name": "Ron Johnson",
+            "senator_2_name": "Tammy Baldwin"
+        },
+        "WY": {
+            "governor_name": "Mark Gordon",
+            "state_capital": "Cheyenne",
+            "senator_1_name": "Cynthia Lummis",
+            "senator_2_name": "John Barrasso"
+        }
+    }
+}
