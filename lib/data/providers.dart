@@ -13,8 +13,8 @@ AppDatabase appDatabase(Ref ref) {
     LazyDatabase(() async {
       final result = await WasmDatabase.open(
         databaseName: 'civis_db',
-        sqlite3Uri: Uri.parse('/sqlite3.wasm'),
-        driftWorkerUri: Uri.parse('/drift_worker.js'),
+        sqlite3Uri: Uri.parse('sqlite3.wasm'),
+        driftWorkerUri: Uri.parse('drift_worker.js'),
       );
       return result.resolvedExecutor;
     }),
