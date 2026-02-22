@@ -1,0 +1,39 @@
+name: Deploy to GitHub Pages
+
+on:
+  # Trigger the workflow every time you push to the 'main' branch
+  push:
+    branches:
+      - main
+  # Allow running this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Grant write permission to the GITHUB_TOKEN so the action can push to the gh-pages branch
+permissions:
+  contents: write
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable' # Ensure we use the stable channel
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Build Web App
+        # CRITICAL: The base-href MUST match your repository name exactly (case-sensitive) surrounded by slashes.
+        run: flutter build web --release --base-href "/Civis-web/"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build/web # The directory containing the compiled Flutter web files
+          force_orphan: true # Keeps the gh-pages branch history clean
