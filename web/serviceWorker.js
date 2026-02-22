@@ -43,7 +43,7 @@ self.addEventListener('notificationclick', function (event) {
             }
             if (clients.openWindow) {
                 // If no window is open, open a new one to the random route
-                return clients.openWindow('/random');
+                return clients.openWindow(self.registration.scope + '#/random');
             }
         })
     );
